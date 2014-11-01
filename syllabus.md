@@ -42,9 +42,11 @@ This course will follow the Law School’s “Class Recording Policy,” availab
 
 # Week One—Introduction to Open Government Data
 ### Tentative Guest Lecturer ()
-What is open government data? What makes open government data different from preexisting transparency-related efforts, such as the Freedom of Information Act? How is open government data used? What role do governments play—and what role should they play—in collecting, disseminating, and using open government data? 
 
-Tentative Reading List:
+> What is open government data? What makes open government data different from preexisting transparency-related efforts, such as the Freedom of Information Act? How is open government data used? What role do governments play—and what role should they play—in collecting, disseminating, and using open government data? 
+
+### Tentative Reading List:
+
 * Chapters 4 & 5, Josh Tauberer, Open Government Data (2nd Ed. 2014) (“Tauberer”), available at http://opengovdata.io
 * Harlan Yu & David G. Robinson, The New Ambiguity of “Open Government”, 59 UCLA L. Rev. Disc. 178 (2012)
 * Jeremy Weinstein & Joshua Goldstein, Opening Up Government in Developing Countries, 60 UCLA L. Rev. Disc. 38 (2012)
