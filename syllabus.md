@@ -41,7 +41,7 @@ Students must strictly adhere to the GW Law School’s Academic Integrity Code (
 This course will follow the Law School’s “Class Recording Policy,” available at the Dean of Students Office Website.  Essentially, students may request class recordings when they will be absent for religious reasons, family emergencies, and other authorized absences.  Requests for recording and questions about the policy should be directed to the Dean of Students Office. 
 
 # Week One—Introduction to Open Government Data
-### Tentative Guest Lecturer ()
+### Guest Lecturer (Harlan Yu)
 
 > What is open government data? What makes open government data different from preexisting transparency-related efforts, such as the Freedom of Information Act? How is open government data used? What role do governments play—and what role should they play—in collecting, disseminating, and using open government data? 
 
@@ -63,7 +63,7 @@ This course will follow the Law School’s “Class Recording Policy,” availab
 * David Robinson et al., Government Data and the Invisible Hand , 11 Yale J.L. & Tech. 160 (2009)
 
 # Week Three—Copyright, Licensing, and Open Data Policies
-### Tentative Guest Lecturer (Josh Tauberer)
+### Guest Lecturer (Josh Tauberer)
 
 > This session will discuss the key concepts behind successful open-data policies and will cover issues surrounding ownership of government data, including claims to copyright, use of terms of service, and data licenses.
 
