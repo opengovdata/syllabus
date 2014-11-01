@@ -1,0 +1,27 @@
+- session: 1
+  topic: Introduction to Open Government Data
+  description: What is open government data? What makes open government data different from preexisting transparency-related efforts, such as the Freedom of Information Act? How is open government data used? What role do governments play—and what role should they play—in collecting, disseminating, and using open government data?
+
+- session: 2
+  topic: Understanding the tools of Open Government Data
+  description: This session will address many of the important tools used related to the use of open government data, including: APIs and datasets, web scrapers, regular expressions, natural language processing, and version control (git/dat).
+  
+- session: 3
+  topic: Copyright, Licensing, and Open Data Policies
+  description: This session will discuss the key concepts behind successful open-data policies and will cover issues surrounding ownership of government data, including claims to copyright, use of terms of service, and data licenses.
+
+- session: 4
+  topic: Privacy and “Big” Open Data
+  description: On of the most commonly cited concerns about open government data is personal privacy and the “mosaic” effect of big data. What are the social implications with dissemination of government data? How should governments address privacy when thinking about open government data?
+
+- session: 5
+  topic: Data Integrity and Preservation; Digital Inclusion
+  description: Another challenge that is central to discusisons about open government data relate to the integrity and permanence of government data. How should governments validate the authenticity of data? What obligations do governments have to maintain, secure, and preserve data? And how should a digital divide inform open government data-related decisions?
+
+- session: 6
+  topic: Efficacy of Open Government Data
+  description: This session will explore whether open government data policies are living up to their promise and ask what should be expected from an open government data policy? What are the successes and failures for open government data? How are cities and states using open government data? What's likely to come next for open government data?
+
+- session: 7
+  topic: Recap and Conclusion
+  description: This session will be a recap and final discussion of the issues discussed in the seminar.
