@@ -1,6 +1,11 @@
 - session: 1
   topic: Introduction to Open Government Data
   description: What is open government data? What makes open government data different from preexisting transparency-related efforts, such as the Freedom of Information Act? How is open government data used? What role do governments play—and what role should they play—in collecting, disseminating, and using open government data?
+  guest lecturer:
+    - name: Harlan Yu
+    - website: http://www.robinsonyu.com/
+    - twitter: https://twitter.com/harlanyu
+    - github: harlanyu
 
 - session: 2
   topic: Understanding the tools of Open Government Data
