@@ -97,6 +97,7 @@ This course will follow the Law School’s “Class Recording Policy,” availab
 
 > Another challenge that is central to discusisons about open government data relate to the integrity and permanence of government data. How should governments validate the authenticity of data? What obligations do governments have to maintain, secure, and preserve data? And how should a digital divide inform open government data-related decisions?
 
+### Tentative Reading List
 * Uniform Electronic Legal Material Act
 * A. Michael Froomkin, Government Data Breaches, 24 Berkeley Tech. L.J. 1019 (2009), available at: http://scholarship.law.berkeley.edu/btlj/vol24/iss3/3
 * Executive Office of the President, Big Data: Seizing Opportunities, Preserving Values (May 2014), available online at http://www.whitehouse.gov/sites/default/files/docs/big_data_privacy_report_5.1.14_final_print.pdf
