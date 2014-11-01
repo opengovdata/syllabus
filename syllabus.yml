@@ -9,6 +9,11 @@
 - session: 3
   topic: Copyright, Licensing, and Open Data Policies
   description: This session will discuss the key concepts behind successful open-data policies and will cover issues surrounding ownership of government data, including claims to copyright, use of terms of service, and data licenses.
+  guest lecturer: 
+    - name: Josh Tauberer
+    - website: http://razor.occams.info/
+    - twitter: joshdata
+    - github: joshdata
 
 - session: 4
   topic: Privacy and “Big” Open Data
