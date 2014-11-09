@@ -93,7 +93,7 @@ This course will follow the Law School’s “Class Recording Policy,” availab
 * Cyrus Farivar, Podcast, Episode 32 of Life of the Law (“Privacy Issues”) (Apr. 22, 2014), available at http://www.lifeofthelaw.org/privacy-issues/
 
 # Week Five—Data Integrity and Preservation; Digital Inclusion
-### Tentative Guest Lecturer (TBD)
+### Tentative Guest Lecturer (Emily Feltren, American Association of Law Librarians)
 
 > Another challenge that is central to discusisons about open government data relate to the integrity and permanence of government data. How should governments validate the authenticity of data? What obligations do governments have to maintain, secure, and preserve data? And how should a digital divide inform open government data-related decisions?
 
