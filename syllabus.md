@@ -1,8 +1,4 @@
-The George Washington	V. David Zvenyach, Spring 2015
-University Law School
-
-# PROPOSED SYLLABUS FOR
-# Reading Group (Open Government Data)
+## Reading Group (Open Government Data)
 
 > Federal, state, and local governments have increasingly adopted open-data policies (e.g., OMB Memorandum M-10-06), created new open-data portals (e.g., data.gov), and established new open-data offices (Chief Data Officers, Chief Innovation Officers, etc.), all with an eye toward promoting open-government data. This reading group will explore several key legal and technological issues related to open government data, discuss the implications of open data for personal privacy and on civic society, and examine the effect that open data may have on the practice of law.
 
@@ -41,6 +37,7 @@ Students must strictly adhere to the GW Law School’s Academic Integrity Code (
 This course will follow the Law School’s “Class Recording Policy,” available at the Dean of Students Office Website.  Essentially, students may request class recordings when they will be absent for religious reasons, family emergencies, and other authorized absences.  Requests for recording and questions about the policy should be directed to the Dean of Students Office. 
 
 # Week One—Introduction to Open Government Data
+
 ### Guest Lecturer (Harlan Yu)
 
 > What is open government data? What makes open government data different from preexisting transparency-related efforts, such as the Freedom of Information Act? How is open government data used? What role do governments play—and what role should they play—in collecting, disseminating, and using open government data? 
@@ -53,7 +50,7 @@ This course will follow the Law School’s “Class Recording Policy,” availab
 
 # Week Two—Understanding the tools of Open Government Data
 
-###  Tentative Guest Lecturer (Eric Mill, Developer, 18F)
+### Guest Lecturer (Eric Mill)
 
 > This session will address many of the important tools used related to the use of open government data, including: APIs and datasets, web scrapers, regular expressions, natural language processing, and version control (git/dat).
 
@@ -63,6 +60,7 @@ This course will follow the Law School’s “Class Recording Policy,” availab
 * David Robinson et al., Government Data and the Invisible Hand , 11 Yale J.L. & Tech. 160 (2009)
 
 # Week Three—Copyright, Licensing, and Open Data Policies
+
 ### Guest Lecturer (Josh Tauberer)
 
 > This session will discuss the key concepts behind successful open-data policies and will cover issues surrounding ownership of government data, including claims to copyright, use of terms of service, and data licenses.
@@ -80,6 +78,7 @@ This course will follow the Law School’s “Class Recording Policy,” availab
 * Sunlight Foundation, Guidelines for Open Data Policies (Mar. 2014), available online at http://sunlightfoundation.com/opendataguidelines
 
 # Week Four—Privacy and “Big” Open Data
+
 ### Tentative Guest Lecturer (TBD)
 
 > On of the most commonly cited concerns about open government data is personal privacy and the “mosaic” effect of big data. What are the social implications with dissemination of government data? How should governments address privacy when thinking about open government data?
@@ -93,7 +92,8 @@ This course will follow the Law School’s “Class Recording Policy,” availab
 * Cyrus Farivar, Podcast, Episode 32 of Life of the Law (“Privacy Issues”) (Apr. 22, 2014), available at http://www.lifeofthelaw.org/privacy-issues/
 
 # Week Five—Data Integrity and Preservation; Digital Inclusion
-### Tentative Guest Lecturer (Emily Feltren, American Association of Law Librarians)
+
+### Guest Lecturer (Emily Feltren)
 
 > Another challenge that is central to discusisons about open government data relate to the integrity and permanence of government data. How should governments validate the authenticity of data? What obligations do governments have to maintain, secure, and preserve data? And how should a digital divide inform open government data-related decisions?
 
@@ -106,6 +106,7 @@ This course will follow the Law School’s “Class Recording Policy,” availab
 * Adam Liptak, In Supreme Court Opinions, Web Links to Nowhere, N.Y. Times, at A13 (September 24, 2013), available online at http://www.nytimes.com/2013/09/24/us/politics/in-supreme-court-opinions-clicks-that-lead-nowhere.html
 
 # Week Six—Efficacy of Open Government Data
+
 ### Tentative Guest Lecturer (TBD)
 
 > This session will explore whether open government data policies are living up to their promise and ask what should be expected from an open government data policy? What are the successes and failures for open government data? How are cities and states using open government data? What's likely to come next for open government data?

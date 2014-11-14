@@ -10,7 +10,12 @@
 - session: 2
   topic: Understanding the tools of Open Government Data
   description: This session will address many of the important tools used related to the use of open government data, including: APIs and datasets, web scrapers, regular expressions, natural language processing, and version control (git/dat).
-  
+  guest lecturer: 
+    - name: Eric Mill
+    - website: https://konklone.com
+    - twitter: konklone
+    - github: konklone
+
 - session: 3
   topic: Copyright, Licensing, and Open Data Policies
   description: This session will discuss the key concepts behind successful open-data policies and will cover issues surrounding ownership of government data, including claims to copyright, use of terms of service, and data licenses.
@@ -27,6 +32,8 @@
 - session: 5
   topic: Data Integrity and Preservation; Digital Inclusion
   description: Another challenge that is central to discusisons about open government data relate to the integrity and permanence of government data. How should governments validate the authenticity of data? What obligations do governments have to maintain, secure, and preserve data? And how should a digital divide inform open government data-related decisions?
+  guest lecturer: 
+    - name: Emily Feltren
 
 - session: 6
   topic: Efficacy of Open Government Data
